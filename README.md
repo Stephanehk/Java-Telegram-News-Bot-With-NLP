@@ -5,6 +5,14 @@ Just by the way I would love to hear of any other sugestions you guys have for i
 
 ## Examples:
 
+![screen shot 2016-10-19 at 10 09 05 pm](https://cloud.githubusercontent.com/assets/17076091/19543985/650ed940-9649-11e6-97dc-571bf8a55efe.png)
+
+![screen shot 2016-10-19 at 10 09 39 pm](https://cloud.githubusercontent.com/assets/17076091/19543995/71f91ba2-9649-11e6-85e4-3d4a07f920b8.png)
+
+![screen shot 2016-10-19 at 10 11 11 pm](https://cloud.githubusercontent.com/assets/17076091/19543997/7a6ec912-9649-11e6-9c84-a134ef1cfc40.png)
+
+![screen shot 2016-10-19 at 10 10 06 pm](https://cloud.githubusercontent.com/assets/17076091/19543999/81a04f76-9649-11e6-9f36-134434fef1d1.png)
+
 
 ## How does it work?
 
