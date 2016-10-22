@@ -20,7 +20,7 @@ First, the user types in a query such as "whats the technology news?". The progr
 
 If however, the query is more specific such as "whats the technology news?" or "what is going on in Syria?" (or once again any variation of these two sentences), the program recognizes the noun (unless the noun is news) and retrieves a few of the google news articles related to the desired search. 
 
-The third type of query is one where there is multipke nouns such as "Whats happening in New York City?" or "Whats the news with the presidential elections?". The program overcomes this challenge by storing all the nouns in the sentence in an arraylist, and then counts them to see how many their are. If there is more then 1 noun (meaning there is some sort of conjuntion), then the program concatenates the arraylist and searches for the whole entire thing.
+The third type of query is one where there is multiple nouns such as "Whats happening in New York City?" or "Whats the news with the presidential elections?". The program overcomes this challenge by storing all the nouns in the sentence in an arraylist, and then counts them to see how many their are. If there is more then 1 noun (meaning there is some sort of conjuntion), then the program concatenates the arraylist and searches for the whole entire thing.
 
 
 Some problems to exist in this code. One of the main ones is that if the user types in "Whats going on in new york?" (without the capital letters) then the program only searches for "york" instead of "new york"
